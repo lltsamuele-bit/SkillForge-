@@ -12,6 +12,7 @@
   <h1>SkillForge 💪</h1>
   <p>Trasforma il tuo livello nella tua prossima skill.</p>
   <button>💪 Allenati oggi</button>
+<script src="script.js"></script>
 </body>
 </html>
 
