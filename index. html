@@ -1,0 +1,20 @@
+```html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b0f0d">
+  <title>SkillForge</title>
+</head>
+
+<body>
+
+  <h1>SkillForge</h1>
+  <p>Trasforma il tuo livello nella tua prossima skill.</p>
+
+  <button>💪 Allenati oggi</button>
+
+</body>
+</html>
+```
